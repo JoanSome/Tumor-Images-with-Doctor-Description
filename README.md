@@ -20,7 +20,7 @@ A log in window will pop up, log in.
 After logging in, the main window will open. The user can select an image from the 'Tumor Images' folder, write some notes on the text box on the GUI window, then click 'SAVE' button to save the information in a database. The user can click on the 'QUIT' button to close the GUI window or 'NEXT' button to move to the next image.
 
 ## Dependencies
-mysql Workbench 8.0.33
-tkinter 8.6
+mysql Workbench 8.0.33 ||
+tkinter 8.6 ||
 PIL 9.5.0
 
